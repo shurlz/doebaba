@@ -1,2 +1,2 @@
 Hi, I'm John.
-A PROGRAMMER.
+I write code
