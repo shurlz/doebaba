@@ -1,2 +1,2 @@
 Hi, I'm John.
-I write code
+A Data Scientist and Machine Learning Enthusiast
