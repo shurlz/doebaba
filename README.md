@@ -1,4 +1,4 @@
 ### Hi, I'm John.
-### A Data Scientist -Passionate about Machine Learning
+### A Data Scientist 
     Python , SQL....
     learning Angular JS
