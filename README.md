@@ -1,3 +1,3 @@
 ### Hi, I'm John.
-### A Data Scientist 
-### Languages : Python , SQL, JavaScript , CSS, Octave....
+### A Data Scientist and Backend Developer
+### Django Flask MySQL Postgres JavaScript HTML/CSS Tensorflow/OpenCV/SkLearn/Pandas/Numpy
